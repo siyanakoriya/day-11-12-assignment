@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="22e47fed-dd8b-4b14-b547-8b541b62ce99" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +35,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DecimalToBinary">
+    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalToBinary" />
+      <module name="day-11-12-assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GretestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GretestCommonDivisor" />
       <module name="day-11-12-assignment" />
@@ -42,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.GretestCommonDivisor" />
       </list>
     </recent_temporary>
