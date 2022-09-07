@@ -36,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HexadecimalToDecimal">
+  <component name="RunManager" selected="Application.DecimalToOctal">
     <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecimalToBinary" />
       <module name="day-11-12-assignment" />
@@ -44,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GretestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GretestCommonDivisor" />
+    <configuration name="DecimalToOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalToOctal" />
       <module name="day-11-12-assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalToOctal" />
         <item itemvalue="Application.HexadecimalToDecimal" />
         <item itemvalue="Application.OctalToDecimal" />
         <item itemvalue="Application.OctalToBinary" />
         <item itemvalue="Application.DecimalToBinary" />
-        <item itemvalue="Application.GretestCommonDivisor" />
       </list>
     </recent_temporary>
   </component>
