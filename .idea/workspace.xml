@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22e47fed-dd8b-4b14-b547-8b541b62ce99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22e47fed-dd8b-4b14-b547-8b541b62ce99" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OctalToDecimal">
+  <component name="RunManager" selected="Application.HexadecimalToDecimal">
     <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecimalToBinary" />
       <module name="day-11-12-assignment" />
@@ -48,6 +46,13 @@
     </configuration>
     <configuration name="GretestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GretestCommonDivisor" />
+      <module name="day-11-12-assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexadecimalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HexadecimalToDecimal" />
       <module name="day-11-12-assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HexadecimalToDecimal" />
         <item itemvalue="Application.OctalToDecimal" />
         <item itemvalue="Application.OctalToBinary" />
         <item itemvalue="Application.DecimalToBinary" />
