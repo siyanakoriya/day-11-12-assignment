@@ -36,9 +36,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinaryToOctal">
+  <component name="RunManager" selected="Application.DecimalToHexadecimal">
     <configuration name="BinaryToOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryToOctal" />
+      <module name="day-11-12-assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalToHexadecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalToHexadecimal" />
       <module name="day-11-12-assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,13 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OctalToBinary" />
-      <module name="day-11-12-assignment" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OctalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OctalToDecimal" />
       <module name="day-11-12-assignment" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecimalToHexadecimal" />
         <item itemvalue="Application.BinaryToOctal" />
         <item itemvalue="Application.DecimalToOctal" />
         <item itemvalue="Application.HexadecimalToDecimal" />
         <item itemvalue="Application.OctalToDecimal" />
-        <item itemvalue="Application.OctalToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -103,5 +103,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinaryToOctal.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
